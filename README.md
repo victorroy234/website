@@ -7,6 +7,9 @@ Template structure for web Development<br>
 
 
 ## SETUP
+git clone linkToRepository<br>
+  - will copy all files from the github to the server<br>
+  
 git remote add github linkToRepository <br>
   - will allow you to add a repository so you can make changes to it.<br>
 
