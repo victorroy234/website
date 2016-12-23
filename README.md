@@ -7,7 +7,7 @@ Template structure for web Development<br>
 
 
 ## SETUP
-git remote add github https://github.com/estebanperez1/Teaching.git <br>
+git remote add github linkToRepository <br>
   - will allow you to add a repository so you can make changes to it.<br>
 
 git remote -v  <br>
